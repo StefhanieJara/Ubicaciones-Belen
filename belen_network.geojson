@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TORRE BELÉN 75M",
+        "type": "repeater",
+        "height": 221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.722980, -4.240150]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PUESTO DE SALUD",
+        "type": "client",
+        "height": 175.98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.725224, -4.241082]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COLEGIO PRIMARIO",
+        "type": "client",
+        "height": 179.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.724300, -4.241790]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "COLEGIO SECUNDARIO",
+        "type": "client",
+        "height": 204.20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.718122, -4.225510]
+      }
+    }
+  ]
+}Z
